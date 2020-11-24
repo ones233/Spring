@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02IOC" />
+        <module name="04Autowired" />
+        <module name="05anno" />
+        <module name="01Hello" />
+        <module name="06proxy-demo" />
+        <module name="07AOP1" />
+        <module name="03DI" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="07AOP" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
